@@ -1,0 +1,57 @@
+body{
+	background-color: cadetblue;
+
+}
+
+}
+img{
+	margin:120px;
+	width: 700px;
+	height: 520px;
+	border-radius: 5px;
+	margin-left: 340px;
+	margin-top: 0px;
+}
+
+
+
+
+h2{
+	margin-right: 120px;
+}
+
+p{
+	text-align: center;
+}
+h1.italic{
+    
+	padding: 3px;
+	text-align: center;
+	font-family: italic;
+	
+}
+h2.harf{
+    
+}
+img.idd{
+	text-align: center;
+	width: 500px;
+	margin-left: 330px;
+	border-radius: 9px;
+}
+img.bor{
+	margin-left: 330px;
+	border-radius: 9px;
+
+}
+img.san{
+	margin-left: 330px;
+	border-radius: 9px;
+}
+img.jkl{
+	border-radius: 9px;
+	margin-left: 330px;
+}
+div{
+	ba
+}
